@@ -1,0 +1,32 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 90px;
+}
+.avatar{
+    position: fixed;
+    width: 30px;
+    right: 20px;
+}
+.items{
+    margin-left: 113px;
+    color: white;
+    display: flex;
+}
+.list{
+    margin-left: 11px;
+    color: white;
+    text-decoration: none;
+}
+
